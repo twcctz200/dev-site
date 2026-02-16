@@ -34,7 +34,7 @@
     "css-vars-ponyfill": "^2.4.8",
     "custom-event-polyfill": "^1.0.7",
     "dompurify": "^2.4.0",
-    "gatsby": "^4.25.7",
+    "gatsby": "^5.14.0",
     "gatsby-plugin-advanced-sitemap": "^2.0.0",
     "gatsby-plugin-feed": "^4.24.0",
     "gatsby-plugin-google-tagmanager": "^5.11.0",
@@ -92,7 +92,7 @@
     "unist-util-map": "^2.0.1",
     "unist-util-visit-parents": "^3.1.1",
     "url-search-params-polyfill": "^8.1.0",
-    "webpack": "^5.76.0",
+    "webpack": "^5.98.0",
     "whatwg-fetch": "^3.5.0"
   },
   "description": "Developer website for MaxMind",
